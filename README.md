@@ -8,3 +8,4 @@ Several backups from blocklists for Pi-hole
 * mozilla-block.txt - Block Mozilla related
 * psh-class-block.txt - Backup hpHosts database with the PSH classification ONLY.
 * windows-spyblocker.txt - Windows Spyblocker
+* xiaomi-block.txt - Block Xiaomi telemetry
