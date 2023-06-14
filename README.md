@@ -9,3 +9,4 @@ Several backups from blocklists for Pi-hole
 * psh-class-block.txt - Backup hpHosts database with the PSH classification ONLY.
 * windows-spyblocker.txt - Windows Spyblocker
 * xiaomi-block.txt - Block Xiaomi telemetry
+* xiaomi_dns_block.lst - Block Xiaomi DNS
