@@ -5,7 +5,7 @@ Several backups from blocklists for Pi-hole
 * emd-class-block.txt - Backup hpHosts database with the EMD classification ONLY.
 * exp-class-block.txt - Backup hpHosts database with the EXP classification ONLY.
 * facebook-block.txt - Block Facebook related
-* hosts0.txt - Backup from URL https://hostsfile.mine.nu
+* hosts0.txt - Backup URL https://hostsfile.mine.nu/hosts0.txt
 * mozilla-block.txt - Block Mozilla related
 * psh-class-block.txt - Backup hpHosts database with the PSH classification ONLY.
 * windows-spyblocker.txt - Windows Spyblocker
